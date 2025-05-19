@@ -1,0 +1,28 @@
+[submodule "glad"]
+	path = glad
+	url = ../glad_3.1
+	branch = main
+[submodule "glm"]
+	path = glm
+	url = ../../g-truc/glm
+	branch = master
+[submodule "tinyobjloader"]
+	path = tinyobjloader
+	url = ../../cpp-port/tiny-tinyobjloader
+	branch = main
+[submodule "assimp"]
+	path = assimp
+	url = ../../cpp-port/assimp
+	branch = main
+[submodule "tinygltf"]
+	path = tinygltf
+	url = ../../cpp-port/tiny-tinygltf
+	branch = main
+[submodule "vkbootstrap"]
+	path = vkbootstrap
+	url = ../../cpp-port/vkbootstrap
+	branch = main
+[submodule "vulkan"]
+	path = vulkan
+	url = ../../cpp-port/windows-vulkan-headers
+	branch = main
