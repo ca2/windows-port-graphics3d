@@ -26,3 +26,7 @@
 	path = vulkan
 	url = ../../cpp-port/windows-vulkan-headers
 	branch = main
+[submodule "vkvg"]
+	path = vkvg
+	url = ../../cpp-port/port-vkvg
+	branch = main
