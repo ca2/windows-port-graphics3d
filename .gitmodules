@@ -2,14 +2,6 @@
 	path = glad
 	url = ../glad_3.1
 	branch = main
-[submodule "glm"]
-	path = glm
-	url = ../../g-truc/glm
-	branch = master
-[submodule "tinyobjloader"]
-	path = tinyobjloader
-	url = ../../cpp-port/tiny-tinyobjloader
-	branch = main
 [submodule "assimp"]
 	path = assimp
 	url = ../../cpp-port/assimp
