@@ -22,3 +22,7 @@
 	path = vkvg
 	url = ../../cpp-port/port-vkvg
 	branch = main
+[submodule "nanovg"]
+	path = nanovg
+	url = ../../cpp-port/port-nanovg
+	branch = main
