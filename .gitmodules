@@ -26,3 +26,7 @@
 	path = nanovg
 	url = ../../cpp-port/port-nanovg
 	branch = main
+[submodule "PixEvents"]
+	path = PixEvents
+	url = ../../cpp-port/PixEvents
+	branch = main
