@@ -30,3 +30,6 @@
 	path = PixEvents
 	url = ../../cpp-port/PixEvents
 	branch = main
+[submodule "tinyktx"]
+	path = tinyktx
+	url = ../../cpp-port/tinyktx
