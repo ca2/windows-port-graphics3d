@@ -33,3 +33,7 @@
 [submodule "tinyktx"]
 	path = tinyktx
 	url = ../../cpp-port/tinyktx
+[submodule "ktx"]
+	path = ktx
+	url = ../../cpp-port/ktx
+	branch = main
